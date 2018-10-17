@@ -4,3 +4,5 @@ Index of my repositories, including code projects and notes (with README only).
 ## How-To's
 - [link](https://github.com/bgarlow/mfaonly_oktaverifypush) Okta API calls to create a new user and enroll them in Okta Verify with Push.
 ## Code Projects
+### AWS API Gateway
+#### Mock API endpoint (Lambda Function): [mock_api_lambda](https://github.com/bgarlow/mock_api_lambda)
