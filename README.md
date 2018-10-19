@@ -6,6 +6,7 @@ Index of my repositories, including code projects and notes (with README only).
 | Description                           | Repo   |
 | :--------- | :-------| 
 | __MFA-Only with Okta Verify Push__: Documents the user creation, MFA factor enrollment, and related flows for an MFA-only use case for Okta Verify with Push. All API calls are documented, and a Postman Collection is provided. | [mfaonly_oktqverifypush](https://github.com/bgarlow/mfaonly_oktaverifypush) |
+ __Okta Transaction State, Authentication and MFA__: Documents the user creation, MFA factor enrollment, and related flow in the context of the Okta Transaction State model. Useful for starting a small POC. All API calls are documented, and a Postman Collection is provided. | [okta_authentication_mfa_flow](https://github.com/bgarlow/okta_authentication_mfa_flow) |
 
 ## Code Projects 
 
